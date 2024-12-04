@@ -13,7 +13,7 @@ secim = ""
 print("***********************************************")
 print("**** İstinye Online Market’e Hoşgeldiniz ****\n")
 print("***********************************************")
-#hjasbdjashdbajdhajhd112312312313
+#hjasbdjashdbajdhajhd1123123123131231231231
 #kullanıcıdan bilgilerini girmesini(pdf te verildiği gibi) sağladık.
 def giris_ekranı():
     
