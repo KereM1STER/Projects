@@ -14,7 +14,7 @@ print("***********************************************")
 print("**** İstinye Online Market’e Hoşgeldiniz ****\n")
 print("***********************************************")
 #hjasbdjashdbajdhajhd1123123123131231231231
-#shahdahsdhas
+#shahdahsdhas11111
 #Beğendim Lİkeasdasdasd asdadasdasdad
 
 #Beğendim Lİke
