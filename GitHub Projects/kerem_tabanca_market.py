@@ -16,7 +16,7 @@ print("***********************************************")
 #hjasbdjashdbajdhajhd1123123123131231231231
 #shahdahsdhas11111
 #Beğendim Lİkeasdasdasd asdadasdasdad
-
+#Kerem Tabanca Burada Bir Değişiklik yaptı !!!!
 #Beğendim Lİke
 
 #kullanıcıdan bilgilerini girmesini(pdf te verildiği gibi) sağladık.
